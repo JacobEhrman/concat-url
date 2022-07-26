@@ -1,0 +1,24 @@
+{
+  "name": "concat-url",
+  "version": "1.0.0",
+  "description": "an iterative function to concatenate strings into a url, separated by a slash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobEhrman/concat-url.git"
+  },
+  "keywords": [
+    "url",
+    "concatenation",
+    "iterative"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JacobEhrman/concat-url/issues"
+  },
+  "homepage": "https://github.com/JacobEhrman/concat-url#readme"
+}
