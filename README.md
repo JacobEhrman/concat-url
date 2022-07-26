@@ -1,2 +1,2 @@
 # concat-url
-an iterative function to concatenate strings into a url, separated by a slash
+An iterative function to concatenate strings into a url, separated by a slash.
